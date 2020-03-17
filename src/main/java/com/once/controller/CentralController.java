@@ -14,6 +14,7 @@ public class CentralController {
 
     /**
      * 中间首页跳转
+     * 这句话的意识只是测试一下上传
      */
     @RequestMapping("/welcome")
     public String toWelcome(){
